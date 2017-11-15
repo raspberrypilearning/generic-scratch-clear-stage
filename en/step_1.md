@@ -1,4 +1,4 @@
-The `clear` {blockpen} block clears the Scratch stage of lines and stamps created using the pen or stamp blocks. 
+The `clear` {.blockpen} block clears the Scratch stage of lines and stamps created using the pen or stamp blocks. 
 
 ![screenshot](images/stamp-pen-stage.png)
 
@@ -10,6 +10,6 @@ You can use `clear` {blockpen} in a script:
 
 ![screenshot](images/clear-code.png)
 
-You can also just click on `clear` {blockpen} in the palette without dragging the block onto the stage:
+You can also just click on `clear` {.blockpen} in the palette without dragging the block onto the stage:
 
 ![screenshot](images/clear-stage-palette.png)
