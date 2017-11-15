@@ -1,25 +1,15 @@
-## Introduction
+The `clear` {blockpen} block clears the Scratch stage of lines and stamps created using the pen or stamp blocks. 
 
-Add project description here. What will learners be making?
+![screenshot](images/stamp-pen-stage.png)
 
-### What you will make
+After clearing the stage you will just see the backdrop with any sprites that are not hidden:
 
-Add something here to showcase here, for example:
+![screenshot](images/stage-after-clear.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+You can use `clear` {blockpen} in a script:
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+![screenshot](images/clear-code.png)
 
-### What you will learn
+You can also just click on `clear` {blockpen} in the palette without dragging the block onto the stage:
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+![screenshot](images/clear-stage-palette.png)
