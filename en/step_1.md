@@ -1,8 +1,8 @@
-The `clear` {.blockpen} block clears the Scratch stage of lines and stamps created using the pen or stamp blocks. 
+The `clear` {.blockpen} block clears the Scratch stage of lines and stamps created using `pen` or `stamp` blocks. 
 
 ![screenshot](images/stamp-pen-stage.png)
 
-After clearing the stage you will just see the backdrop with any sprites that are not hidden:
+After clearing the stage, you will just see the backdrop with any sprites that are not hidden:
 
 ![screenshot](images/stage-after-clear.png)
 
